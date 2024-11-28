@@ -74,5 +74,6 @@ I am a passionate Software Engineer with a strong focus on **Frontend Developmen
 ---
 
 ## 📢 Let's Connect
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/ramsey-adrian-7171b71a4/)  
-- **GitHub**: [Your GitHub Profile](#)  
+- **LinkedIn**: [RamseyAdrian](https://www.linkedin.com/in/ramsey-adrian-7171b71a4/)
+- **GitHub 1**: [RamseyAdrian](https://www.github.com/RamseyAdrian)
+- **GitHub 2**: [AdrianRamsey13](https://www.github.com/AdrianRamsey13)
