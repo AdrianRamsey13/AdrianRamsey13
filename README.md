@@ -77,4 +77,4 @@ I am a passionate Software Engineer with a strong focus on **Frontend Developmen
 - **LinkedIn**: [RamseyAdrian](https://www.linkedin.com/in/ramsey-adrian-7171b71a4/)
 - **GitHub 1**: [RamseyAdrian](https://www.github.com/RamseyAdrian)
 - **GitHub 2**: [AdrianRamsey13](https://www.github.com/AdrianRamsey13)
-- **Email**: [Ramsey Adrian](adrianseyy@gmail.com)
+- **Email**: adrianseyy@gmail.com
